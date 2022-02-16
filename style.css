@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-nav {
+  font-size: 18px;
+}
+
+#skills .smiti-animation {
+  -webkit-animation: floatUp 4s ease-in-out infinite;
+  animation: floatUp 4s ease-in-out infinite ;
+}
+
+ 
